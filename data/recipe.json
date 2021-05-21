@@ -21,14 +21,14 @@
         "recipeServes": 10
     },
     {
-        "recipeName": "Savoury pies with Jarlsberg cheese and ham",
+        "recipeName": "Savoury pies with cheese and ham",
         "recipeTime": 150,
         "recipeCalories": 3222,
         "recipeImage": "https://ben-haig-99.github.io/data/images/cheesenham600.jpg",
         "recipeServes": 12
     },
     {
-        "recipeName": "Savoury pancakes with paneer & spinach stuffing",
+        "recipeName": "Savoury pancakes with spinach stuffing",
         "recipeTime": 60,
         "recipeCalories": 2753,
         "recipeImage": "https://ben-haig-99.github.io/data/images/pancake600.jpg",
@@ -49,7 +49,7 @@
         "recipeServes": 10
     },
     {
-        "recipeName": "Mustard, bacon and caramelised onion scones",
+        "recipeName": "Caramelised onion scones",
         "recipeTime": 60,
         "recipeCalories": 3138,
         "recipeImage": "https://ben-haig-99.github.io/data/images/onionscones600.jpg",
