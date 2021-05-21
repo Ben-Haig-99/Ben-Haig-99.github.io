@@ -1,0 +1,72 @@
+[
+    {
+        "recipeName": "Persian Pomegranate and Walnut Stew",
+        "recipeTime": 200,
+        "recipeCalories": 1121,
+        "recipeImage": "",
+        "recipeServes": 4
+    },
+    {
+        "recipeName": "Nice 'n' spicy savoury rice",
+        "recipeTime": 45,
+        "recipeCalories": 1493,
+        "recipeImage": "",
+        "recipeServes": 4
+    },
+    {
+        "recipeName": "Savoury Pumpkin Scones",
+        "recipeTime": 60,
+        "recipeCalories": 2809,
+        "recipeImage": "",
+        "recipeServes": 10
+    },
+    {
+        "recipeName": "Savoury pies with Jarlsberg cheese and ham",
+        "recipeTime": 150,
+        "recipeCalories": 3222,
+        "recipeImage": "",
+        "recipeServes": 12
+    },
+    {
+        "recipeName": "Savoury pancakes with paneer & spinach stuffing",
+        "recipeTime": 60,
+        "recipeCalories": 2753,
+        "recipeImage": "",
+        "recipeServes": 8
+    },
+    {
+        "recipeName": "Sweet and Savoury Brioche",
+        "recipeTime": 441,
+        "recipeCalories": 4028,
+        "recipeImage": "",
+        "recipeServes": 14
+    },
+    {
+        "recipeName": "Smoked salmon & poppy seed palmiers",
+        "recipeTime": 50,
+        "recipeCalories": 2238,
+        "recipeImage": "",
+        "recipeServes": 10
+    },
+    {
+        "recipeName": "Mustard, bacon and caramelised onion scones",
+        "recipeTime": 60,
+        "recipeCalories": 3138,
+        "recipeImage": "",
+        "recipeServes": 12
+    },
+    {
+        "recipeName": "Savoury Asian Oatmeal with Soy Vinaigrette",
+        "recipeTime": 60,
+        "recipeCalories": 483,
+        "recipeImage": "",
+        "recipeServes": 2
+    },
+    {
+        "recipeName": "Chorizo & manchego scones",
+        "recipeTime": 34,
+        "recipeCalories": 1923,
+        "recipeImage": "",
+        "recipeServes": 6
+    }
+]
